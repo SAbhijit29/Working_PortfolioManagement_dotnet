@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "750f939e-27c1-48a7-82af-841395c01357": {
+      "ProjectGuid": "750f939e-27c1-48a7-82af-841395c01357",
+      "DisplayName": "StockMicroservice",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

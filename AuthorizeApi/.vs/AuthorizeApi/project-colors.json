@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "cca9dda9-83a2-4d22-9e6d-0afb6043d116": {
+      "ProjectGuid": "cca9dda9-83a2-4d22-9e6d-0afb6043d116",
+      "DisplayName": "AuthorizeApi",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
